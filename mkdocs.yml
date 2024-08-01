@@ -2,8 +2,13 @@ site_name: Learning Paths Handbook
 nav:
     - About: index.md
     - Course Content:
-      - "1. Step 1": chapters/chapter_01.md
-      - "2. Step 2": chapters/chapter_02.md
+      - "Introduction": chapters/chapter_00.md
+      - "Step 1": chapters/chapter_01.md
+      - "Step 2": chapters/chapter_02.md
+      - "Step 3": chapters/chapter_03.md
+      - "Step 4": chapters/chapter_04.md
+      - "Step 5": chapters/chapter_05.md
+      - "Step 6": chapters/chapter_06.md
       - "References": chapters/references.md
     - "Follow up training": follow_up_training.md
 
