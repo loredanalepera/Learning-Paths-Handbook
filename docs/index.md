@@ -1,4 +1,4 @@
-# ELIXIR Lesson Title 
+# Learning Paths Handbook 
 
 [add-bioschemas file='_data/metadata.yaml']
 
