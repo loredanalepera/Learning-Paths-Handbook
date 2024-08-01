@@ -8,7 +8,7 @@
 
 Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](https://www.flaticon.com)
 
-## Lesson overview
+## Handbook overview
 
 !!! overview ""
     :fontawesome-regular-bookmark: **Description**  
