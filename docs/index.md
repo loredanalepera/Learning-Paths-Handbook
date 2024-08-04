@@ -53,7 +53,7 @@ Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxic
 Greek Mythology icons made by [max.icons](https://www.flaticon.com/authors/maxicons) from [www.flaticon.com](www.flaticon.com)
 
 ---
-## Citing this lesson
+## Citing this Handbook
 
 Please cite as:
 
