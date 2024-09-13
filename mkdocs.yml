@@ -2,7 +2,7 @@ site_name: Learning Paths Handbook
 nav:
     - About: index.md
     - Handbook Content:
-      - "Introduction": chapters/chapter_00.md
+      - "Introduction": chapters/introduction.md
       - "Step 1": chapters/chapter_01.md
       - "Step 2": chapters/chapter_02.md
       - "Step 3": chapters/chapter_03.md
