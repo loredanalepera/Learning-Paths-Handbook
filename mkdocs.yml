@@ -10,7 +10,7 @@ nav:
       - "Step 5": chapters/chapter_05.md
       - "Step 6": chapters/chapter_06.md
       - "References": chapters/references.md
-    - "Follow up training": follow_up_training.md
+ #   - "Follow up training": follow_up_training.md
 
 theme:
   name: material
